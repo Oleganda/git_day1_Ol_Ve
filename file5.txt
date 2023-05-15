@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The last one, the fifth file. ---
+=======
+The last one, the fifth file.
+The final file today
+>>>>>>> fc1763a (add final changes)
